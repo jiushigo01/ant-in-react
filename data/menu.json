@@ -1,0 +1,127 @@
+{
+      "data":
+      [
+        {
+            "id": "119",
+            "parentid": "0",
+            "menu_name": "登录",
+            "type": "1",
+            "url": "",
+            "submenu": []
+        },
+        {
+            "id": "84",
+            "parentid": "0",
+            "menu_name": "用户管理",
+            "type": "1",
+            "submenu": [
+                {
+                    "id": "86",
+                    "parentid": "84",
+                    "menu_name": "用户管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                },
+                {
+                    "id": "88",
+                    "parentid": "84",
+                    "menu_name": "代理商用户管理",
+                    "type": "1",
+                    "url": "/agent",
+                    "submenu": []
+                },
+                {
+                    "id": "89",
+                    "parentid": "84",
+                    "menu_name": "媒体主管理",
+                    "type": "1",
+                    "url": "/media",
+                    "submenu": []
+                }
+            ]
+        },
+        {
+            "id": "90",
+            "parentid": "0",
+            "menu_name": "媒体库管理",
+            "type": "1",
+            "url": "",
+            "submenu": [
+                {
+                    "id": "124",
+                    "parentid": "90",
+                    "menu_name": "微信公众号管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                },
+                {
+                    "id": "125",
+                    "parentid": "90",
+                    "menu_name": "微信红人管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                },
+                {
+                    "id": "126",
+                    "parentid": "90",
+                    "menu_name": "媒体合集管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                },
+                {
+                    "id": "127",
+                    "parentid": "90",
+                    "menu_name": "主题市场管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                },
+                {
+                    "id": "128",
+                    "parentid": "90",
+                    "menu_name": "媒体标签库管理",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                }
+            ]
+        },
+        {
+            "id": "121",
+            "parentid": "0",
+            "menu_name": "统计中心",
+            "type": "1",
+            "url": "",
+            "submenu": []
+        },
+        {
+            "id": "122",
+            "parentid": "0",
+            "menu_name": "订单监控与管理",
+            "type": "1",
+            "url": "",
+            "submenu": []
+        },
+        {
+            "id": "123",
+            "parentid": "0",
+            "menu_name": "系统设置",
+            "type": "1",
+            "url": "",
+            "submenu": [
+                {
+                    "id": "129",
+                    "parentid": "123",
+                    "menu_name": "系统用户与角色",
+                    "type": "1",
+                    "url": "",
+                    "submenu": []
+                }
+            ]
+        }
+      ]
+    }
