@@ -6,6 +6,7 @@
     "index": "./src/entry/index.jsx"
   },
   "dependencies": {
+    "ant": "^0.2.0",
     "antd": "0.12.x",
     "atool-build": "0.6.x",
     "babel-plugin-antd": "0.3.x",
@@ -13,7 +14,8 @@
     "jquery": "^2.2.3",
     "react": "0.14.x",
     "react-dom": "0.14.x",
-    "react-router": "^2.3.0"
+    "react-router": "^2.3.0",
+    "reqwest": "^2.0.5"
   },
   "devDependencies": {
     "dora": "0.3.x",
